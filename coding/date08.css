@@ -33,14 +33,20 @@ body{
     margin-left: 30px;
 }
 
-.image-caption img {
+.content {
     width: 215px;
     height: 315px;
     margin-bottom: 0px;
+    background-color: black;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    font-weight: 800;
+    color: white;
 }
 
 .figure-caption {
-    background-color: black;
+    background-color: darkolivegreen;
     padding: 0%;
-    color: red;
+    color: white;
 }
