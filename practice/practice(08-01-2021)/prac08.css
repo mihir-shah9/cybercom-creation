@@ -1,0 +1,20 @@
+body{
+    background-color: darkgreen;
+}
+p{
+    color: red;
+    font-size: 35px;
+    background-color: lightseagreen;
+}
+table{
+    background-color: gray;
+    font-size: 50px;
+}
+ul{
+    font-size: 35px;
+    background-color: indianred;
+}
+ol{
+    font-size: 35px;
+    background-color: darkseagreen;
+}
