@@ -50,3 +50,9 @@ body{
     padding: 0%;
     color: white;
 }
+.paragraph {
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    width: 50%;
+}
