@@ -1,14 +1,6 @@
-body{
-    background-color: darkgreen;
-}
-p{
-    color: red;
-    font-size: 35px;
-    background-color: lightseagreen;
-}
 table{
-    background-color: gray;
-    font-size: 50px;
+    background-color: white;
+    font-size: 20px;
 }
 ul{
     font-size: 35px;
@@ -17,4 +9,29 @@ ul{
 ol{
     font-size: 35px;
     background-color: darkseagreen;
+}
+.table2{
+    text-align: center;
+}
+.para{
+    justify-content: center;
+    align-items: center;
+    width: 50%;
+    display: flex;
+}
+.table3{
+    width: 500px;
+    height: 500px;
+}
+.head1{
+    width: 450px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+.head3{
+    width: 190px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
 }
