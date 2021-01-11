@@ -7,7 +7,7 @@ Date:11/01/2021 ///// This is my today's work /////
 -->Card is very helpful in my work and i have learnt many things from it.
 -->i have watched all videos.
 -->if-else statement.
--->Three types of functions:
+-->Types of functions:
 	1.Declaration function
 		syntax:function myfunction(){}
 	2.Expression function
@@ -19,4 +19,4 @@ Date:11/01/2021 ///// This is my today's work /////
 	3.checkbox
 	4.file
 	5.email
-	6.password
+	6.password.
