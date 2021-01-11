@@ -19,4 +19,5 @@ Date:11/01/2021 ///// This is my today's work /////
 	3.checkbox
 	4.file
 	5.email
-	6.password.
+	6.password
+	7.reset & submit button
