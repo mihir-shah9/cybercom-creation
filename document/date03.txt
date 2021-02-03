@@ -1,0 +1,41 @@
+Date:03/02/2021 ///// This is my today's work /////
+===================================================
+	
+-->Today i learnt about PHP.
+-->How to check php information in our web.
+	phpinfo();
+-->php.ini is used to give all info for php.
+-->output HTML using php.
+	EX:- <?php
+		echo '<input type="text" value="mihir">';
+	     ?>
+-->Embedding php inside HTML.
+	EX:- <?php
+		$text = 'Hello';
+	     ?>
+	     <input type="text" value="<?php echo $text;?>">
+-->php comments.
+	1)single line comment:-
+		//comments
+	2)double line comments:-
+		/*comments*/ 
+-->Error reporting.
+	-we can change any settings in php.ini file for error reporting.
+	-error_reporting = 0
+	-In above setting, we should change the value of error reporting
+		from 0 to E_ALL.
+-->variables.
+	-we cannot use any variable in php.
+	-only dollar($) sign is used as variable.
+	EX:- $text = 'hello';
+	     $number = 100;
+	     echo $text;
+	     echo $number;
+-->concatenation.
+-->if-else statement.
+-->if-else if statement.
+-->Assignment operater.
+-->Comparison operater.
+-->Logical operater.
+-->Triple equal.
+	-In triple equal it is consider their datatype.

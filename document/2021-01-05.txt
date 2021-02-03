@@ -1,7 +1,0 @@
--->Today i have learnt how to generate SSH key.
--->And practice all git commands.
--->During practice i have faced one error.which was open in git bash.
-	then i searched this error in google.and i got a answer.
-	Answer is--step-1 press "i",
-		   step-2 press "esc",
-		   step-3 In below window write :wq.
