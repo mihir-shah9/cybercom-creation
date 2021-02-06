@@ -1,0 +1,137 @@
+body{
+    background-color: #36486b;
+}
+.container{
+    margin-top: 150px;
+    justify-content:center;
+    align-items: center;
+    text-align: center;
+    display: flex;
+    padding: 25px;
+    background-color: #8d9db6;
+    width: 900px;
+    height: 450px;
+    border-radius: 3px;
+    border-color: black;
+    box-shadow: 5px 5px black;
+}
+.log{
+    margin-left: 20px;
+    margin-bottom: 20px;
+    color: black;
+    text-shadow: 2px 2px white;
+}
+.form-group{
+    margin-top: 35px;
+    margin-bottom: 35px;
+}
+.btn1{
+    border-radius: 2px;
+    border-color: black;
+    width: 320px;
+    color: black;
+    margin-left: 60px;
+    font-size: 20px;
+}
+.or{
+    margin-left: 50px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: black;
+}
+
+
+/*For Dashboard.html*/
+.dashboard{
+    background-color: #8d9db6;
+}
+.left-div{
+    width: 200px;
+    background-color: #36486b;
+    border-color: black;
+    height: 762px;
+}
+.par{
+    margin-left: 15px;
+    font-size: 20px;
+    color: white;
+}
+.par1{
+    text-decoration: none;
+    color: black;
+    margin-left: 40px;
+    font-size: 20px;
+}
+.dash{
+    display: flex;
+}
+.text{
+    color: black;
+    font-size: 25px;
+    margin: 40px;
+}
+.right-sub-div{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.right-sub{
+    margin-left: 130px;
+    margin-top: 25px;
+    width: 250px;
+    height: 130px;
+    padding-top: 20px;
+    border: 2px solid black;
+}
+.user{
+    font-size: 25px;
+}
+#sub1{
+    background-color: lightsalmon;
+}
+#sub2{
+    background-color: rgb(131, 111, 245);
+}
+#sub3{
+    background-color: lightpink;
+}
+.right-botton{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    margin-top: 60px;
+    font-size: 23px;
+}
+
+
+/*For User.html*/
+.form-group{
+    margin-left: 70px;
+}
+.form-inline{
+    margin-left: 30px;
+}
+.btn{
+    margin-left: 920px;
+    margin-top: 30px;
+    width: 200px;
+}
+.table{
+    margin: 70px;
+}
+
+
+/*For Sub-User.html*/
+.text1{
+    margin-left: 450px;
+    margin-top: 20px;
+    font-size: 30px;
+    text-align: center;
+}
+.text2{
+    color: red;
+    margin-left: 500px;
+    margin-top: 30px;
+    font-size: 50px;
+}

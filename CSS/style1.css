@@ -1,0 +1,48 @@
+body{
+    background-color: #36486b;
+}
+
+.container{
+    margin-top: 150px;
+    justify-content:center;
+    align-items: center;
+    text-align: center;
+    display: flex;
+    padding: 25px;
+    background-color: #8d9db6;
+    width: 900px;
+    border-radius: 3px;
+    border-color: black;
+    box-shadow: 5px 5px black;
+}
+
+.log{
+    margin-bottom: 20px;
+    color: black;
+    text-shadow: 2px 2px white;
+}
+
+.form-group{
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+input.form-check-input{
+    width: 23px;
+    height: 18px;
+}
+
+.form-check-label{
+    color: black;
+    margin-right: 200px;
+    margin-left: 10px;
+    font-size: 17px;
+}
+
+.btn{
+    border-radius: 2px;
+    border-color: black;
+    width: 400px;
+    color: black;
+    font-size: 20px;
+}
