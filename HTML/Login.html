@@ -16,9 +16,8 @@
 </head>
 
 <body>
-
     <div class="container">
-        <form onsubmit="return check_validate()" action="Dashboard.html" method="POST multipart/form-data"
+        <form onsubmit="return check_validate(), user_validate()" id="form1" method="POST multipart/form-data"
             class="col-md-6">
             <div>
                 <h1 class="log">LOGIN</h1>
