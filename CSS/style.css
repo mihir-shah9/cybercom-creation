@@ -112,10 +112,16 @@ body{
 .form-inline{
     margin-left: 30px;
 }
-.btn{
-    margin-left: 920px;
-    margin-top: 30px;
-    width: 200px;
+#adduserbutton{
+    margin-top: 20px;
+    margin-left: 930px;
+    width: 150px;
+}
+#updateuserbutton{
+    margin-top: 20px;
+    margin-left: 930px;
+    width: 150px;
+    display: none;
 }
 .table{
     margin: 70px;
