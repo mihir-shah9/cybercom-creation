@@ -1,0 +1,13 @@
+body{
+    background-color: lightblue;
+}
+.table{
+    margin-top: 40px;
+    border: 1px solid black;
+}
+.row{
+    margin-top: 40px;
+}
+.create{
+    margin-top: 40px;
+}

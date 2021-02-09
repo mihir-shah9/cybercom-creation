@@ -1,0 +1,14 @@
+Date:09/02/2021 ///// This is my today's work /////
+===================================================
+	
+-->Today i learnt on php CRUD operation.
+-->In this CRUD operation i have completed many work.
+-->All .php files are:-
+	dbcon.php
+	index.php
+	update.php
+	create.php
+	navbar.php
+	contacts.php
+	delete.php
+-->So this CRUD operation is very helpful in my work. 
