@@ -1,9 +1,0 @@
-Date:08/02/2021 ///// This is my today's work /////
-===================================================
-	
--->Today i learnt on PHP.
--->In php, how to connect our file with server.
--->We are using localhost for connect with server.
--->Also i learnt on FORM validation.
--->Form validation is very easy to understand.
--->Practiced on JS form validation.
